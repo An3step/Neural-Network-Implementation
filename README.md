@@ -5,7 +5,7 @@ This repository contains step-by-step implementation of deep-neural networks, st
 ### Languages: Python
 ### Technologies: Jupyter Lab
 ### Libraries: Numpy, Scikit-learn, Matplotlib
-### Description
+### Content
 - Part_1: Basic Derivation
 - Part_2: Functions of multiple variables
 - Part_3: Simple Forward and Backward pass
