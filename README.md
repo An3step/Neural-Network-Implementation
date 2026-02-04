@@ -2,9 +2,14 @@
 ## Author: Stepanov Anton
 ## Description:
 This repository contains step-by-step implementation of deep-neural networks, starting with basic math, differentiantion, gradients and implementing all of them in Python. This repository may be helpful to understand how math works behind ml and dl.
-### Languages: Python
-### Technologies: Jupyter Lab
-### Libraries: Numpy, Scikit-learn, Matplotlib
+### Languages: 
+- Python
+### Technologies: 
+- Jupyter Lab
+### Libraries: 
+- Numpy
+- Scikit-learn
+- Matplotlib
 ### Content
 - Part_1: Basic Derivation
 - Part_2: Functions of multiple variables
